@@ -1,4 +1,5 @@
 class A:
+    #pyhton is good
     def a(self,name):
         self.name=name
         print("information is",name)
